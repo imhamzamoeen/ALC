@@ -1,0 +1,5 @@
+ $UpdatedUser = [
+         'dept'=>'product team',
+         'manager'=>'nabeela.arshad@alquranclasses.com',
+   
+        ];

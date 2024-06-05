@@ -1,0 +1,9 @@
+ //  $AssignRoleUserArray=[
+        //     'members'=>[
+        //         [
+        //             'id'=>'Sur9Rj_dS1aAXXRbASE4wA',   // 
+        //             //'email'=>'',  we can either provide email or user id .. it depends upon us
+        //         ],
+        //         //upto 30 users can be provided at a time
+        //     ]
+        //     ];

@@ -1,0 +1,3 @@
+Teacher ko apna time nazar ata h reschedule main us main hm conversion nhe krty.. but hmara time uc main convert hota like woh reschedule date 
+
+student k case main hm teacher ki availability ko student k timezone main convert krty and then usko utc main convert krty fir dono ko apny timezone ki mail jati and same for class reschedule if teacher accepts

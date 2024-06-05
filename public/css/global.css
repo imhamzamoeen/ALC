@@ -1,0 +1,81 @@
+
+ .form-tick:checked[type=checkbox] {
+    background-image: url('../images/tick.svg');
+}
+ .form-tick:checked {
+    border-color: #e2e1e1;
+}
+ .form-tick:focus {
+    border-color: #e2e1e1 !important;
+}
+ form-tick {
+    border-color: #e2e1e1;
+
+}
+.bck-trans:checked{
+    background: transparent !important;
+   background-color: transparent !important;
+}
+.ad-student-btn{
+    margin-left: 28px;
+}
+.successfully-added{
+    margin-left: 67px;
+}
+.add-another{
+    margin-left: 21px;
+}
+.left-arrow{
+    height: 10px;
+    width: 10px;
+    margin: 7px 10px 0px 46px;
+    color: white;
+    margin-right: 2px !important;
+}
+
+.main-container{
+    padding: 55px 0px 0px 10px;
+}
+.student-list > thead{
+    border-bottom: 1px solid lightgrey;
+}
+
+.header-navigate{
+    padding: 4px 10px 0px 10px
+}
+
+.status-pending{
+    background-color: #FFAA0029;
+    color: #FFAA00;
+    border-radius: 5px;
+    padding: 6px 17px 8px 20px;
+    text-transform: capitalize;
+}
+
+.status-paused{
+    background-color: #99FF6E29 ;
+    color: #50BC54;
+    border-radius: 5px;
+    padding: 6px 17px 8px 20px;
+    text-transform: capitalize;
+}
+
+.status-success{
+    background-color: #6EC5FF29;
+    color: #6EC5FF;
+    border-radius: 5px;
+    padding: 6px 17px 8px 20px;
+    text-transform: capitalize;
+}
+
+.status-failed{
+    background-color: #FF3B3B29;
+    color: #FF3B3B;
+    border-radius: 5px;
+    padding: 6px 17px 8px 20px;
+    text-transform: capitalize;
+}
+.student-card:hover{
+    box-shadow: 1px 1px 20px -10px;
+    cursor: pointer;
+}

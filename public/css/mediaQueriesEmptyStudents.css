@@ -1,0 +1,306 @@
+/* Iphone X and Iphone 6/7/8 and Iphone 6/7/8 Plus */
+@media screen and (min-width: 371px) and (max-width: 410px) {
+    .main-content {
+        margin-left: -3em;
+        line-height: 2;
+    }
+    .addStudents {
+        margin-top: 8em;
+        margin-left: -18.75em;
+    }
+    .emptyContent {
+        text-align: center;
+    }
+    .emptyText {
+        margin-left: 0em;
+    }
+    .linebreak {
+        display: block;
+    }
+    .headings {
+        margin-top: 8em;
+    }
+    .navigation2 {
+        padding-left: 0em;
+    }
+    .icon-responsive {
+        display: block;
+    }
+    #collapsedContent1, #collapsedContent2 {
+        display: none;
+    }
+    .mobileShow {
+        display: block;
+    }
+}
+/* Pixel 2 and 2 XL */
+@media screen and (min-width: 411px) and (max-width: 539px) {
+    .main-content {
+        margin-left: -3em;
+        line-height: 2;
+    }
+    .headings {
+        margin-top: 8em;
+    }
+    .addStudents {
+        margin-top: 7em;
+        margin-left: -21em;
+    }
+    .emptyContent {
+        text-align: center;
+    }
+    .emptyIllustration {
+        margin-top: 8em;
+    }
+    .emptyText {
+        margin-left: 0em;
+    }
+    .linebreak {
+        display: block;
+    }
+    .navigation2 {
+        padding-left: 0em;
+    }
+    .icon-responsive {
+        display: block;
+    }
+    #collapsedContent1, #collapsedContent2 {
+        display: none;
+    }
+    .mobileShow {
+        display: block;
+    }
+}
+
+/* Moto G4 and Galaxy S5 */
+@media screen and (min-width: 360px) and (max-width: 370px) {
+    .main-content {
+        margin-left: -3em;
+        line-height: 2;
+    }
+    .headings {
+        margin-top: 8em;
+    }
+    .addStudents {
+        margin-top: 7em;
+        margin-left: -17.75em;
+    }
+    .emptyContent {
+        text-align: center;
+    }
+    .emptyText {
+        margin-left: 0em;
+    }
+    .linebreak {
+        display: block;
+    }
+    .emptyIllustration {
+        margin-top: 7em;
+    }
+    .navigation2 {
+        padding-left: 0em;
+    }
+    .icon-responsive {
+        display: block;
+    }
+    #collapsedContent1, #collapsedContent2 {
+        display: none;
+    }
+    .mobileShow {
+        display: block;
+    }
+}
+
+/* Iphone 5/SE */
+@media screen and (min-width: 281px) and (max-width: 320px) {
+    .main-content {
+        margin-left: -3em;
+        line-height: 1.5;
+    }
+    .addStudents {
+        margin-top: 8em;
+        margin-left: -15.25em;
+    }
+    .headings {
+        margin-top: 10em;
+    }
+
+    .emptyContent {
+        text-align: center;
+    }
+    .emptyIllustration {
+        margin-top: 6em;
+    }
+    .emptyText {
+        margin-left: 0em;
+    }
+    .linebreak {
+        display: block;
+    }
+    .navigation2 {
+        padding-left: 0em;
+    }
+    .icon-responsive {
+        display: block;
+    }
+    #collapsedContent1, #collapsedContent2 {
+        display: none;
+    }
+    .mobileShow {
+        display: block;
+    }
+    .icons {
+        margin-right: 1em;
+    }
+}
+
+/* Surface Duo */
+@media screen and (min-width: 540px) and (max-width: 600px) {
+    .main-content {
+        margin-left: -3em;
+        line-height: 2;
+    }
+    .addStudents {
+        margin-top: 7em;
+        margin-left: -29em;
+    }
+    .headings {
+        margin-top: 8em;
+    }
+    .emptyContent {
+        text-align: center;
+    }
+    .emptyIllustration {
+        margin-top: 8em;
+    }
+    .emptyText {
+        margin-left: 0em;
+    }
+    .linebreak {
+        display: block;
+    }
+    .navigation2 {
+        padding-left: 0em;
+    }
+    .icon-responsive {
+        display: block;
+    }
+    #collapsedContent1, #collapsedContent2 {
+        display: none;
+    }
+    .mobileShow {
+        display: block;
+    }
+}
+
+/* Galaxy Fold */
+@media screen and (max-width: 280px) {
+    .main-content {
+        margin-left: -3em;
+        line-height: 1.5;
+    }
+    .addStudents {
+        margin-top: 8em;
+        margin-left: -12.75em;
+    }
+    .emptyContent {
+        text-align: center;
+    }
+    .emptyText {
+        margin-left: 0em;
+    }
+    .linebreak {
+        display: block;
+    }
+    .navigation2 {
+        padding-left: 0em;
+    }
+    .icon-responsive {
+        display: block;
+    }
+    .emptyIllustration {
+        margin-top: 8em;
+    }
+    .headings {
+        margin-top: 10em;
+    }
+    #collapsedContent1, #collapsedContent2 {
+        display: none;
+    }
+    .mobileShow {
+        display: block;
+    }
+    .icons {
+        margin-right: 0.5em;
+    }
+}
+
+/* Ipad */
+@media screen and (min-width: 767px) and (max-width: 1023px) {
+    .main-content {
+        margin-left: -1em;
+        line-height: 2;
+    }
+    .headings {
+        margin-top: 8em;
+    }
+    .addStudents {
+        margin-top: 7em;
+        margin-left: -40em;
+    }
+    .emptyContent {
+        margin-left: 10em;
+    }
+    .emptyText {
+        margin-left: 0em;
+    }
+    .linebreak {
+        display: block;
+    }
+    .navigation2 {
+        padding-left: 0em;
+    }
+    .icon-responsive {
+        display: block;
+    }
+    .emptyIllustration {
+        margin-left: -13em;
+        margin-top: 16em;
+    }
+    #collapsedContent1, #collapsedContent2 {
+        display: none;
+    }
+    .mobileShow {
+        display: block;
+    }
+    #three-lines {
+        margin-left: 1em;
+    }
+}
+
+/* Ipad Pro */
+@media screen and (min-width: 1024px) and (max-width: 1365px) {
+    .main-content {
+        margin-left: -1em;
+        line-height: 2;
+    }
+    #collapsedContent1 {
+        margin-left: 0em;
+    }
+    .addStudents {
+        margin-left: -14em;
+    }
+    .emptyText {
+        margin-left: 0em;
+    }
+    .icon-main {
+        padding-left: 3em;
+    }
+    .navigation2 {
+        padding-left: 2em;
+    }
+    .emptyIllustration {
+        margin-left: -5em;
+        margin-top: 24em;
+    }
+}

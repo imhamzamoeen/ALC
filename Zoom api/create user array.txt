@@ -1,0 +1,7 @@
+       // $NewUser = [
+        //     'email' => 'chaudharylillah123@gmail.com',
+        //     'first_name' => 'chaudhary',
+        //     'last_name' => 'lillah',
+        //     'password' => 'testpassword',
+        //     'type' => ZoomEnum::USER_TYPE['Basic'],
+        // ];

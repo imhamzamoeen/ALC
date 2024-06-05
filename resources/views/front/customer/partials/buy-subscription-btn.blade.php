@@ -1,0 +1,1 @@
+<a href="{{ route('customer.buySubscription', ['locale' => request()->getLocale(), 'student' => $student]) }}" class="btn btn-outline-primary py-2 buySubscription-btn action-btn px-0">{{ __('Buy Subscription') }}</a>
